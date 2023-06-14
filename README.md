@@ -1,4 +1,4 @@
-# thats What i did Eng ( Mohamed Mohsen )
+# Project steps  ( Mohamed Mohsen )
 1. Create a new ASP.NET Core Empty project
 2. Setup a ClassLibrary project for the Database
  - Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 6.0.1
